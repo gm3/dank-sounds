@@ -2,7 +2,7 @@
 
 This is an open source sound library for Dank Nugs
 
-http://m3org.com/nugs 
+http://m3org.com/nugz
 
 ![](https://i.imgur.com/kLL9SW3.png)
 
