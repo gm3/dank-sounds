@@ -1,6 +1,9 @@
 # dank-sounds
 
-This is an open source sound library for Dank Nugs m3org.com/nugs 
+This is an open source sound library for Dank Nugs
+
+http://m3org.com/nugs 
+
 ![](https://i.imgur.com/kLL9SW3.png)
 
 http://www.twitter.com/dankvr
